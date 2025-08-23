@@ -1,4 +1,6 @@
-## Hi there 👋
+# PNU-Code-save
+
+> 부산대학교 정보컴퓨터공학부 인공지능전공 과제 중 프로그래밍 과제들을 정리하기 위한 저장소
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsbaekx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jsbaekx/jsbaekx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
